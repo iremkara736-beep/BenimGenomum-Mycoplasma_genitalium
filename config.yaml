@@ -1,0 +1,8 @@
+
+samples:
+  Mycoplasma_genitalium:
+    reads: "../ham_veri/okumalar.fastq"
+
+genome_size: "0.58m"
+min_read_length: 1000
+threads: 4
